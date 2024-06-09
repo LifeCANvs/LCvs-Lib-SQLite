@@ -36,7 +36,7 @@ If you think you have found a bug that has security implications and
 you do not want to report it on the public forum, you can send a private
 email to drh at sqlite dot org.
 
-## Public Domain
+## License
 
 The SQLite source code is in the public domain.  See
 <https://sqlite.org/copyright.html> for details. 
@@ -45,6 +45,11 @@ Because SQLite is in the public domain, we do not normally accept pull
 requests, because if we did take a pull request, the changes in that
 pull request might carry a copyright and the SQLite source code would
 then no longer be fully in the public domain.
+
+The author disclaims copyright to this source code. In place of a legal notice, here is a blessing:
+    May you do good and not evil.
+    May you find forgiveness for yourself and forgive others.
+    May you share freely, never taking more than you give.
 
 ## Obtaining The SQLite Source Code
 
